@@ -10,7 +10,7 @@ Custom Walker layout with a black glass look and a sleek dark presentation.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/01_blackglass/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/01_blackglass/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -24,7 +24,7 @@ Custom Walker layout with a minimal glass-inspired style and a clean visual stru
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/02_minimalGlass/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/02_minimalGlass/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -38,7 +38,7 @@ Custom Walker layout with a minimal Nord-style palette and a cool, balanced appe
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/03_nordminimal/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/03_nordminimal/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -52,7 +52,7 @@ Custom Walker layout with a minimal warm-toned look inspired by the theme name.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/04_cuppatichinominimal/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/04_cuppatichinominimal/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -66,7 +66,7 @@ Custom Walker layout with an obsidian-dark aesthetic and a bold modern feel.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/05_obsidianmordern_dark/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/05_obsidianmordern_dark/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -80,7 +80,7 @@ Custom Walker layout with a Raycast-inspired theme and a polished dark interface
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/06_raycasttheme/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/06_raycasttheme/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -94,7 +94,7 @@ Custom Walker layout offering a second Raycast-inspired variation with a refined
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/07_raycasttheme2/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/07_raycasttheme2/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -108,7 +108,7 @@ Custom Walker layout with a cyberpunk-inspired aesthetic and vivid futuristic en
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/08_cyberpunk/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/08_cyberpunk/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -122,7 +122,7 @@ Custom Walker layout with a blue-led visual tone and a smooth moody presentation
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/09_bluegravy/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/09_bluegravy/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -136,7 +136,7 @@ Custom Walker layout with a pitch-black appearance for a deep, high-contrast dar
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/10_pitchblack/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/10_pitchblack/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -150,7 +150,7 @@ Custom Walker layout with a gruvbox-style influence and a warm retro-inspired pa
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/11_gruvebox/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/11_gruvebox/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -164,7 +164,7 @@ Custom Walker layout with an oceanic mood and a deep cool-toned visual style.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/12_oceanicdeapth/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/12_oceanicdeapth/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -178,7 +178,7 @@ Custom Walker layout with a forest-inspired palette and a grounded natural feel.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/13_forestcanopy/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/13_forestcanopy/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -192,7 +192,7 @@ Custom Walker layout with sunset-inspired tones and a warm horizon-like atmosphe
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/14_sunsethorizon/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/14_sunsethorizon/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -206,7 +206,7 @@ Custom Walker layout with a sunset tint aesthetic and a soft warm color balance.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/15_sunsetTint/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/15_sunsetTint/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -220,7 +220,7 @@ Custom Walker layout with amber tones and a light floating visual character.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/16_floatingamber/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/16_floatingamber/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -234,7 +234,7 @@ Custom Walker layout with a golden amber palette and a rich warm appearance.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/17_goldenamber/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/17_goldenamber/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -248,7 +248,7 @@ Custom Walker layout with a vibrant style and stronger color presence.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/18_vibrant/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/18_vibrant/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -262,7 +262,7 @@ Custom Walker layout with a Dracula-inspired dark mood and blood-red accents.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/19_draculablood/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/19_draculablood/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -276,7 +276,7 @@ Custom Walker layout with greenish tones and a calm organic visual feel.
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/20_greeninshvibes/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/20_greeninshvibes/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
@@ -290,7 +290,7 @@ Custom Walker layout with a Nordic-inspired palette and a crisp cool-toned prese
 Copy command:
 
 ```sh
-git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/21_nordic/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf /tmp/repo && omarchy-restart-walker
+git clone https://github.com/rahulkumarparida/Walker-themes.git  /tmp/walker-repo && cp  /tmp/walker-repo/21_nordic/style.css  ~/.local/share/omarchy/default/walker/themes/omarchy-default/style.css  && rm -rf  /tmp/walker-repo&& omarchy-restart-walker
 ```
 
 <p>
