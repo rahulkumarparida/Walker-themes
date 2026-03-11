@@ -1,0 +1,149 @@
+@import "~/.config/omarchy/current/theme/walker.css";
+
+/* ===================== */
+/* COLOR VARIABLES */
+/* ===================== */
+
+@define-color bg #1c1c1f;
+@define-color bg2 #242427;
+
+@define-color border #2e2e33;
+
+@define-color text #e6e6e6;
+@define-color text-muted #9a9a9f;
+
+@define-color accent #3b82f6;
+
+
+/* ===================== */
+/* GLOBAL */
+/* ===================== */
+
+*{
+  all: unset;
+}
+
+*{
+  color:@text;
+  font-family: Inter, JetBrains Mono, monospace;
+  font-size:15px;
+}
+
+scrollbar{
+  opacity:0;
+}
+
+
+/* ===================== */
+/* ICON SIZE */
+/* ===================== */
+
+.normal-icons{
+  -gtk-icon-size:18px;
+}
+
+.large-icons{
+  -gtk-icon-size:32px;
+}
+
+
+/* ===================== */
+/* MAIN WINDOW */
+/* ===================== */
+
+.box-wrapper{
+
+  background:@bg;
+
+  border-radius:12px;
+
+  border:1px solid @border;
+
+  padding:10px;
+
+  min-width:650px;
+
+}
+
+
+/* ===================== */
+/* SEARCH BAR */
+/* ===================== */
+
+.search-container{
+
+  background:@bg2;
+
+  border-radius:10px;
+
+  padding:12px;
+
+}
+
+
+/* ===================== */
+/* INPUT */
+/* ===================== */
+
+.input{
+  font-size:16px;
+}
+
+.input placeholder{
+  color:@text-muted;
+}
+
+.input:focus,
+.input:active{
+  outline:none;
+  box-shadow:none;
+}
+
+
+/* ===================== */
+/* ITEMS */
+/* ===================== */
+
+.item-box{
+
+  padding:12px;
+
+  border-radius:8px;
+
+}
+
+
+/* hover */
+
+child:hover .item-box{
+  background:@bg2;
+}
+
+
+/* selected */
+
+child:selected .item-box{
+  background:@bg2;
+}
+
+
+/* icon spacing */
+
+.item-image{
+  margin-right:12px;
+}
+
+
+/* text */
+
+.item-text{
+  font-weight:500;
+}
+
+
+/* hide subtext */
+
+.item-subtext{
+  font-size:0px;
+  min-height:0px;
+}

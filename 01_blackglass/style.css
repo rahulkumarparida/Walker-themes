@@ -1,0 +1,147 @@
+@import "~/.config/omarchy/current/theme/walker.css";
+
+
+*{
+  all: unset;
+}
+
+* {
+  font-family: monospace;
+  font-size: 18px;
+  color: @text;
+}
+
+scrollbar {
+  opacity: 0;
+}
+
+.normal-icons {
+  -gtk-icon-size: 16px;
+}
+
+.large-icons {
+  -gtk-icon-size: 32px;
+}
+/*
+.box-wrapper {
+ background-image: url("/home/rahulroxx/Downloads/bear.jpeg");
+  background-size: cover;
+  background-position: center;
+  opacity:0.9;
+ background: alpha(@base, 0.95);
+
+  border: 2px solid @base;
+  border-radius:8px;
+}
+
+*/
+.box-wrapper {
+
+  background: linear-gradient(
+    135deg,
+    rgba(0,0,0,0.3),
+    rgba(0,0,0,0.04)
+  );
+
+  backdrop-filter: blur(18px);
+  -gtk-backdrop-filter: blur(18px);
+
+  border-radius: 16px;
+
+  border: 1px solid rgba(255,255,255,0.25);
+
+  box-shadow:
+    0 8px 15px rgba(255,255,255,0.1),
+    inset 0 8px 32px 0 rgba(0,0,0,0.8);
+
+  padding: 12px;
+}
+
+
+.preview-box {
+}
+
+.box {
+}
+
+.search-container {
+  background: transparent;
+  padding: 10px;
+}
+
+.input placeholder {
+  opacity: 1;
+}
+
+.input {
+}
+
+.input:focus,
+.input:active {
+  box-shadow: none;
+  outline: none;
+}
+
+.content-container {
+}
+
+.placeholder {
+}
+
+.scroll {
+}
+
+.list {
+}
+
+child,
+child > * {
+}
+
+child:hover .item-box {
+}
+
+child:selected .item-box {
+   background: rgba(0,0,0,0.3);
+}
+
+child:selected .item-box * {
+  color: @selected-text;
+}
+
+.item-box {
+  padding-left: 14px;
+}
+
+.item-text-box {
+  all: unset;
+  padding: 14px 0;
+}
+
+.item-text {
+}
+
+.item-subtext {
+  font-size: 0px;
+  min-height: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.item-image {
+  margin-right: 14px;
+  -gtk-icon-transform: scale(0.9);
+}
+
+.current {
+  font-style: italic;
+}
+
+.keybind-hints {
+  background: @background;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.preview {
+}

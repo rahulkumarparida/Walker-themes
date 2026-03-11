@@ -1,0 +1,70 @@
+@import "~/.config/omarchy/current/theme/walker.css";
+
+* { 
+  all: unset; 
+  /* Don't forget to swap in your installed Nerd Font here! */
+  font-family: "JetBrainsMono Nerd Font", monospace; 
+  font-size: 18px; 
+  color: #8fa396; /* Muted, swampy grey-green for unselected text */
+  /* Buttery smooth animation for all hover and selection states */
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1); 
+}
+
+scrollbar { opacity: 0; }
+.normal-icons { -gtk-icon-size: 16px; } 
+.large-icons { -gtk-icon-size: 32px; }
+
+.box-wrapper {
+  /* Near-black with a microscopic tint of deep jungle green overlaying the bear image */
+  background-image: linear-gradient(rgba(2, 10, 5, 0.96), rgba(5, 15, 8, 0.98)), url("/home/rahulroxx/Downloads/bear.jpeg");
+  background-size: cover;
+  background-position: center;
+  padding: 16px;
+  border: 2px solid #005922; /* Deep, dark forest green border */
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 191, 73, 0.3); /* Eerie emerald glow around the window */
+}
+
+.search-container { 
+  background: rgba(0, 0, 0, 0.8); 
+  padding: 12px; 
+  border-radius: 8px; 
+  margin-bottom: 12px; 
+  border-bottom: 2px solid #00bf49; /* Bright emerald underline for the search box */
+}
+
+.input { 
+  color: #00bf49; /* Piercing neon green for your typed text */
+  font-weight: bold; 
+  font-size: 20px;
+}
+
+/* Subtle border preparation for smooth hover animation */
+child .item-box { 
+  border-radius: 8px;
+  border: 1px solid transparent;
+}
+
+/* Radioactive glow effect when you mouse over an item */
+child:hover .item-box {
+  background: rgba(0, 191, 73, 0.15);
+  border: 1px solid rgba(0, 191, 73, 0.4);
+}
+
+/* Aggressive emerald slash when an item is selected via keyboard */
+child:selected .item-box { 
+  background: linear-gradient(90deg, rgba(0, 191, 73, 0.4) 0%, rgba(2, 10, 5, 0) 100%); 
+  border-left: 4px solid #00bf49; /* Pure neon green accent line */
+  border-radius: 8px; 
+}
+
+/* Make the selected text glow white/green so it pops out of the dark canopy */
+child:selected .item-box * { 
+  color: #ffffff; 
+  text-shadow: 0 0 8px rgba(0, 191, 73, 0.8); 
+  font-weight: bold;
+}
+
+.item-box { padding-left: 14px; }
+.item-text-box { padding: 12px 0; }
+.item-image { margin-right: 14px; }

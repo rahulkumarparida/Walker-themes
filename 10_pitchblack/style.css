@@ -1,0 +1,19 @@
+@import "~/.config/omarchy/current/theme/walker.css";
+
+* { all: unset; font-family: monospace; font-size: 18px; color: #a0a0a0; }
+scrollbar { opacity: 0; }
+.normal-icons { -gtk-icon-size: 16px; } .large-icons { -gtk-icon-size: 32px; }
+
+.box-wrapper {
+  background: #000000;
+  padding: 16px;
+  border: 1px solid #333333;
+  border-radius: 0px;
+}
+.search-container { padding: 8px 0; border-bottom: 1px solid #333333; margin-bottom: 10px; }
+.input { color: #ffffff; }
+child:selected .item-box { background: #ffffff; }
+child:selected .item-box * { color: #000000; }
+.item-box { padding-left: 14px; }
+.item-text-box { padding: 10px 0; }
+.item-image { margin-right: 14px; }

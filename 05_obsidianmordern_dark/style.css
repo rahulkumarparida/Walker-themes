@@ -1,0 +1,39 @@
+@import "~/.config/omarchy/current/theme/walker.css";
+
+@define-color bg #121212;
+@define-color bg2 #1e1e1e;
+@define-color text #e0e0e0;
+@define-color accent #ff7a18;
+@define-color border #2a2a2a;
+
+* { all: unset; }
+* { color:@text; font-family:Inter, monospace; }
+
+scrollbar { opacity:0; }
+
+.box-wrapper{
+  background:@bg;
+  border-radius:10px;
+  border:1px solid @border;
+  padding:12px;
+}
+
+.search-container{
+  background:@bg2;
+  border-radius:6px;
+  padding:10px;
+}
+
+child:hover .item-box{
+  background:@bg2;
+}
+
+child:selected .item-box{
+  background:@accent;
+  color:black;
+}
+
+.item-box{
+  padding:10px;
+  border-radius:6px;
+}

@@ -1,0 +1,22 @@
+@import "~/.config/omarchy/current/theme/walker.css";
+
+* { all: unset; font-family: monospace; font-size: 18px; color: #fbc4ab; }
+scrollbar { opacity: 0; }
+.normal-icons { -gtk-icon-size: 16px; } .large-icons { -gtk-icon-size: 32px; }
+
+.box-wrapper {
+  background-image: url("/home/rahulroxx/Downloads/bear.jpeg");
+  background-size: cover;
+  background-position: center;
+
+  border: 2px solid #c026d3;
+  border-radius: 14px;
+}
+/* Dark frosted background just for the search bar */
+.search-container { background: rgba(45, 20, 44, 0.85); padding: 12px; border-radius: 8px; margin-bottom: 8px; }
+.input { color: #ff7b54; }
+child:selected .item-box { background: rgba(238, 69, 64, 0.85); border-radius: 8px; }
+child:selected .item-box * { color: #ffffff; font-weight: bold; }
+.item-box { padding-left: 14px; }
+.item-text-box { padding: 12px 0; }
+.item-image { margin-right: 14px; }
